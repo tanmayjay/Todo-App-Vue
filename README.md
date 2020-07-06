@@ -1,4 +1,5 @@
-# exerc
+# Todo App
+### A simple front-end Todo Application using Vue.js
 
 ## Project setup
 ```
